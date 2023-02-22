@@ -1,5 +1,10 @@
 ### Below you can find high level test cases based on the allegro.pl web site. ###
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 | NO  | TITLE || PRECONDITIONS  | EXPECTED RESULT |
 | ------------- | ------------- | ------------- | ------------- |
