@@ -1,5 +1,6 @@
 ### Below you can find high level test cases based on the allegro.pl web site. ###
 
+
 | NO  | TITLE || PRECONDITIONS  | EXPECTED RESULT |
 | ------------- | ------------- | ------------- | ------------- |
 | 1.  | Registering new user.  | E-mail and user name not exist in database. | New user succesfully registered. |
