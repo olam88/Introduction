@@ -6,9 +6,11 @@
 
 
 **I have prepared tests using SELENIUM IDE (Chrome extension).**
-**[automationexercise](https://github.com/olam88/automationexercise.com)**
+
+**[automationexercise]https://github.com/olam88/Introduction/tree/main/Automation_excercise)**
 
 **Here you can find some high level test cases.**
+
 **[test_cases](https://github.com/olam88/Introduction/tree/main/Test_Cases)**
 
 
