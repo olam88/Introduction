@@ -1,9 +1,6 @@
 ### Below you can find high level test cases based on the allegro.pl web site. ###
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 
 
 | NO  | TITLE | PRECONDITIONS  | EXPECTED RESULT |
@@ -23,6 +20,6 @@
 | 13.  | Checking notifications of the logged user.  |  User correctly logged.   | Open user notifications section.   |
 | 14.  | Checking messages of the logged user.  |  User correctly logged.   | Open user messages section.   |
 | 15.  | Adding item to observe section.  |  User correctly logged.   | Items visible correctly in the observed items section.   |
-| ------------- | ------------- | ------------- | ------------- |
+
 
 
