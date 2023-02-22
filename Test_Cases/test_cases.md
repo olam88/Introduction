@@ -6,7 +6,7 @@
 | Content Cell  | Content Cell  |
 
 
-| NO  | TITLE || PRECONDITIONS  | EXPECTED RESULT |
+| NO  | TITLE | PRECONDITIONS  | EXPECTED RESULT |
 | ------------- | ------------- | ------------- | ------------- |
 | 1.  | Registering new user.  | E-mail and user name not exist in database. | New user succesfully registered. |
 | 2.  | Logging into account. | User has an account.  | User successfully logged to the account.  |
